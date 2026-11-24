@@ -1,0 +1,4 @@
+Compiler: Solidity 0.8.20 or compatible newer 0.8.x
+Network: Sepolia
+Environment: Injected Provider
+Address: pending
